@@ -1,0 +1,11 @@
+opencv-python
+dlib
+numpy
+Pillow
+requests
+pandas
+openpyxl
+beautifulsoup4
+lxml
+pytest
+tqdm
